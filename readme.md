@@ -9,7 +9,3 @@
 <a href="https://www.tiktok.com/@uhcardoso.ti">TikTok.</a>
 <a href="https://twitter.com/">Twitter.</a>
 <a href="https://t.me/+WeQqmqwe9mw1ZTYx">Telegram.</a>
-
-<style>
-  a {color: 'red'}
-</style>
